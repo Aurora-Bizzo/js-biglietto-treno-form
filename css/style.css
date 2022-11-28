@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(185, 20, 80);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imputs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.padding-16-120 {
+    padding: 16px 120px;  
+}
+
+h2 {
+    margin: 20px 0;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+a {
+    margin: 40px 10px 0 10px;
+}
