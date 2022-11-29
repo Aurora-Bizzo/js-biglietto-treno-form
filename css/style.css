@@ -11,6 +11,19 @@ body {
     align-items: center;
 }
 
+.btn {
+    border-color: gray;
+    background-color: lightgray;
+}
+
+.magenta-border {
+    border-color: rgb(185, 20, 80);
+}
+
+.magenta {
+    color: rgb(185, 20, 80);
+}
+
 .imputs {
     display: flex;
     flex-direction: row;
